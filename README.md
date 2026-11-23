@@ -1,4 +1,6 @@
-# Synthwave '84 theme for Omarchy
+# fk-omarchy-synthwave84-theme
+
+> Forked from omacom/omarchy-synthwave84-theme (MIT). See `SIGMAOS_FORK.md`.
 
 Install using `omarchy-theme-install https://github.com/omacom-io/omarchy-synthwave84-theme.git`.
 
