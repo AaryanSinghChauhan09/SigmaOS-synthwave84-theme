@@ -5,3 +5,8 @@
 Install using `omarchy-theme-install https://github.com/omacom-io/omarchy-synthwave84-theme.git`.
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6be31d95-57ab-4228-9cfc-a147a3cdfaf6" />
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-synthwave84-theme) - Full Wiki documentation for all SigmaOS components
